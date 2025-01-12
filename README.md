@@ -11,7 +11,7 @@ This repository contains a curated list of Python tutorials designed for electiv
 |--------|---------------------------------------------------------|-------------------------------------|-----------------|
 | 1      | Income Tax Calculator                                   | [Tutorial 1](https://github.com/Viwvwek/Python_Elective-Tutorials/tree/main/Tutorial%201)                      | 01/12/25        |
 | 2      | Investment Report Generator                             | [Tutorial 2](https://github.com/Viwvwek/Python_Elective-Tutorials/tree/main/Tutorial%202)                      | 01/12/25        |
-| 3      | Square Root Without Built-in Functions                  | `square_root`                       | 01/12/25        |
+| 3      | Square Root Without Built-in Functions                  | [Tutorial 3](https://github.com/Viwvwek/Python_Elective-Tutorials/tree/main/Tutorial%202)                      | 01/12/25        |
 | 4      | Lazy Evaluation - Fibonacci Series                      | `lazy_fibonacci`                    | 01/19/25        |
 | 5      | Decimal to Binary                                       | `decimal_binary`                    | 01/19/25        |
 | 6      | Binary to Decimal                                       | `binary_decimal`                    | 01/19/25        |
