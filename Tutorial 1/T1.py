@@ -34,6 +34,6 @@ elif annual_income>= 500000  and annual_income <= 1000000:
 elif annual_income >= 1000000:
     annual_income = annual_income + annual_income * .20
     percentage = '30%'
-
+ 
 print("The calculated Income tax is", annual_income,"and the percentage is", percentage)
 
