@@ -15,6 +15,6 @@ investment_amount = input("Enter the Investment Amount: ")
 
 # Calculating the ROI
 roi = ((float(current_value) - float(investment_amount)) / float(investment_amount)) * 100
-
+ 
 # Displaying the ROI
 print("ROI is: {:.2f}%".format(roi))

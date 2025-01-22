@@ -7,7 +7,7 @@
             Eg;
                  Sqrt(4) ===  4**0.5
 """
-
+ 
 #Taking the input from the user
 number = input("Enter the number to find the Square_Root ")
 #Typecasting to perform the function
